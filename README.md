@@ -13,7 +13,7 @@ Im a software developer that loves learning new things and exploring everything 
   <img align="left" alt="Joe Garlicks's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://garlickbread.com/">
-  <img align="left" alt="Joe Garlicks's Website" width="22px" src="https://garlickbread.com/wp-content/uploads/2021/05/garlicklogo.png" />
+  🧄
 </a>
 <br>
 
