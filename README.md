@@ -4,8 +4,8 @@
 
 Im a software developer that loves learning new things and exploring everything tech related!
 
-- Software Developer for the Voice+ platform at iCabbi
-- Graduate in Computer Science for Games from Sheffield Hallem University
+- Software Developer for the Voice+ platform at [iCabbi](https://icabbi.com/en-gb/)
+- Graduate in Computer Science for Games from [Sheffield Hallem University](https://www.shu.ac.uk/)
 
 ## My Links
 
