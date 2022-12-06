@@ -4,7 +4,7 @@
 
 Im a software developer that loves learning new things and exploring everything tech related!
 
-- Software Developer for the Voice+ platform at [iCabbi](https://icabbi.com/en-gb/)
+- Senior Software Engineer at [Ciptex](https://ciptex.com)
 - Graduate in Computer Science for Games from [Sheffield Hallam University](https://www.shu.ac.uk/)
 
 ## My Links
