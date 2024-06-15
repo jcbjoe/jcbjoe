@@ -4,7 +4,7 @@
 
 Im a software developer that loves learning new things and exploring everything tech related!
 
-- Senior Software Engineer at [Flip CX]([https://ciptex.com](https://flipcx.com/))
+- Senior Software Engineer at [Flip CX](https://flipcx.com/)
 - Graduate in Computer Science for Games from [Sheffield Hallam University](https://www.shu.ac.uk/)
 
 ## My Links
